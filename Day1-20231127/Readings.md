@@ -14,3 +14,6 @@
 The round() function in Python is a built-in function that is used to round a number to a specified number of decimal places.
 ## format()
 The .format() method in Python is a string method used for formatting strings. It allows you to insert values into a string without directly concatenating them. This method provides a more readable and convenient way to format strings compared to traditional methods such as using % formatting or string concatenation.
+## O(n^2) time complexity
+- Time complexity is a measure of how the execution time of an algorithm increases as the size of the input data grows.
+- O(n^2) indicates that the running time of the algorithm is a function of the square of the input size n.

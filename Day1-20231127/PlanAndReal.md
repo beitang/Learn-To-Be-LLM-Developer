@@ -6,6 +6,6 @@
 
 # Real
 ## Learn Python the Hard Way: 4 exercises
-## LeetCode: 
+## LeetCode: 1 Two Sum
 ## https://www.coursera.org/learn/generative-ai-for-everyone/home/week/1:
 ## https://github.com/OpenMindClub/awesome-chatgpt: 
