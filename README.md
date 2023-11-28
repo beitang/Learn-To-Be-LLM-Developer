@@ -10,4 +10,8 @@ https://github.com/RUCAIBox/LLMSurvey
 
 ### Persons
 - https://mazzzystar.github.io/about/
+- https://en.wikipedia.org/wiki/Scott_Aaronson
+
+### Company
+- From ChatGPT Wiki: https://en.wikipedia.org/wiki/Sama_(company) one training data company
 
