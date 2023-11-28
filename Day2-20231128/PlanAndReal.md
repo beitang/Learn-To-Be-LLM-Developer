@@ -6,6 +6,7 @@
 
 # Real
 ## Learn Python the Hard Way: 5 exercises
-## LeetCode: 
+## LeetCode: 9 Palindrome Number
 ## https://www.coursera.org/learn/generative-ai-for-everyone/home/week/1:
 ## https://github.com/OpenMindClub/awesome-chatgpt: finish chapter "Meta Resources"
+## openmindclub AI programming class: chapter 9 and homework
