@@ -15,3 +15,9 @@ https://github.com/RUCAIBox/LLMSurvey
 ### Company
 - From ChatGPT Wiki: https://en.wikipedia.org/wiki/Sama_(company) one training data company
 
+### Terms
+- LoRA: low rank adaptation
+
+### Tools/Framework
+- TensorFlow
+- PyTorch
