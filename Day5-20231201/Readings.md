@@ -23,6 +23,7 @@
 ## string
 - encode (string to byte) and decode (byte to string)
 - DBES： Decode Bytes, Encode Strings
+- split()
 
 ## ord and chr
 - ord: Return a string of one character with ordinal i; 0 <= i < 256.
@@ -30,3 +31,7 @@
 
 ## UTF-8
 - Unicode Transformation Format 8 Bits
+
+## List
+- sorted()
+- pop()
