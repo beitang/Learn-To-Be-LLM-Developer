@@ -18,3 +18,15 @@
 - https://github.com/zhayujie/chatgpt-on-wechat
 - https://github.com/BuilderIO/gpt-crawler
 - https://github.com/philippta/flyscrape
+
+# Learn Python the Hard Way
+## string
+- encode (string to byte) and decode (byte to string)
+- DBES： Decode Bytes, Encode Strings
+
+## ord and chr
+- ord: Return a string of one character with ordinal i; 0 <= i < 256.
+- Return the integer ordinal of a one-character string.
+
+## UTF-8
+- Unicode Transformation Format 8 Bits
