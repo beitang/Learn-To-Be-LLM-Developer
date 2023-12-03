@@ -21,3 +21,6 @@ https://github.com/RUCAIBox/LLMSurvey
 ### Tools/Framework
 - TensorFlow
 - PyTorch
+
+### Blogs
+- https://genez.io/blog/create-your-first-app-using-chatgpt/
