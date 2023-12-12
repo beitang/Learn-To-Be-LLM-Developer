@@ -24,3 +24,6 @@ https://github.com/RUCAIBox/LLMSurvey
 
 ### Blogs
 - https://genez.io/blog/create-your-first-app-using-chatgpt/
+
+### Status Update
+- Stop a while to start one project
