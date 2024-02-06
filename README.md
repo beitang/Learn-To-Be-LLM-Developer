@@ -2,7 +2,8 @@
 Record my learning journey to be LLM developer, hope I can succeed
 
 ## Next step
-- Get familiar with hugging face
+- Get familiar with hugging face: https://huggingface.co/docs/hub/index
+- Try https://github.com/huggingface/
 - Try use google collab
 - Try to implement LLM from scratch, there is some in https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes at the end of the page
 
